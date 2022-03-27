@@ -1,1 +1,0 @@
-This repository contains a number of credit-related publications produced by Lehman Brothers Quantitative Credit Research team between 2001 and 2007. I hope it still has some value almost 20 years later. 
